@@ -1,3 +1,16 @@
 <resources>
   <string name="app_name">PasswordManager</string>
+  <string name="add_edit_title_new">Add New Site</string>
+  <string name="add_edit_title_update">Edit Password</string>
+  <string name="site_name">Site Name (e.g. Google)</string>
+  <string name="username">Username</string>
+  <string name="password">Password</string>
+  <string name="btn_save">Save</string>
+  <string name="notes">Notes</string>
+  <string name="main_title">My Passwords</string>
+  <string name="btn_add">Add New</string>
+  <string name="btn_update">Update Password</string>
+  <string name="search_hint">Seach site name...</string>
+  <string name="login_title">Master Login</string>
+  <string name="btn_login">Login</string>
 </resources>
